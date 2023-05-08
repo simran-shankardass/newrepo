@@ -2,7 +2,7 @@
 
 
 ### Link to Deployed Website
-https://distressedkitten222.github.io/newrepo/
+https://simran-shankardass.github.io/newrepo/
 
 
 ### Goal and Value of the Application
